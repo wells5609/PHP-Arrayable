@@ -1,13 +1,16 @@
 <?php
 /**
  * @package wells5609/php-arrayable
+ * 
  * @author wells5609
+ * 
  * @license MIT
+ * 
  * @version 0.1-beta
  */
 
 /**
- * Contract for a class that can return its data as an array.
+ * Contract for an object that can return its data as an array.
  * 
  * @since 0.1-beta
  */
