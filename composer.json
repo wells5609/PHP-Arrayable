@@ -1,0 +1,24 @@
+{
+    "name": "wells5609/php-arrayable",
+    "type": "library",
+    "description": "Standard interface and function for converting objects to arrays.",
+    "keywords": ["Array", "Object", "Conversion", "SPL"],
+    "homepage": "https://github.com/wells5609/PHP-Arrayable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wells",
+            "email": "wellspeterson@live.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.2"
+    },
+    "autoload": {
+        "files": [
+        	"src/Arrayable.php",
+        	"src/functions.php"
+        ]
+    },
+    "minimum-stability": "dev"
+}
