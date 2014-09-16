@@ -1,11 +1,8 @@
 <?php
 /**
  * @package wells5609/php-arrayable
- * 
  * @author wells5609
- * 
  * @license MIT
- * 
  * @version 0.1-beta
  */
 
